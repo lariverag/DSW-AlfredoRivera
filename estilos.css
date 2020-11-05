@@ -1,0 +1,41 @@
+.body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu{
+    padding: 20px;
+    background-color: #F0B429;
+    width: 100%;
+}
+.table{
+    width: 80%;
+    margin: 20px;
+    padding: 10px;
+    align-content: center;
+    background-color: #005883;
+}
+.imagen{
+    width: 40%;
+    align-content: center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family: sans-serif;
+}
+.color_rojo{
+    color: red;
+    font-size: large;
+}
+.table_div{
+    padding: 20px;
+    background-color: aqua;    
+}
+.elemento_div{
+    background-color: yellow;
+}
